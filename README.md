@@ -1,6 +1,6 @@
-# Real-Estate-Das# Real Estate Market Trends Dashboard
+# Real Estate Market Trends Dashboard
 
-![Real Estate Dashboard](https://www.kaggle.com/datasets/catherinemwangi00001/real-estate-dashboard?select=Real_Estate_Dashboard.pdf)
+![Real_Estate_Dashboard_page-0001](https://github.com/user-attachments/assets/d2db9a83-cc08-4d8a-b845-f0211a3a5dad)
 
 ## Project Overview
 This project demonstrates the use of **Spreadsheets**, **SQL**, and **Power BI** to analyze and visualize trends in the real estate market. It showcases a step-by-step process of working with data from initial exploration to creating an interactive dashboard. The final output is a Power BI dashboard that provides actionable insights into property prices, rental trends, and geographic distributions.

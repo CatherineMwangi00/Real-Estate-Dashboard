@@ -82,7 +82,7 @@ The dataset contains simulated data for 500 real estate properties, including:
   - **Line Chart**: Trends in sale and rental prices over time.
   - **Table**: Properties with the highest price per square foot.
 
-![Power BI Dashboard Preview](https://www.kaggle.com/datasets/catherinemwangi00001/real-estate-dashboard?select=Real_Estate_Dashboard.pdf)
+![Real_Estate_Dashboard_page-0001](https://github.com/user-attachments/assets/85d18a52-218e-4692-958a-f21d8b6d46db)
 
 ---
 
